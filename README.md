@@ -26,7 +26,6 @@ A **Full-Stack Web Application** that allows students to submit project ideas an
 - React (TypeScript)
 - Vite
 - Tailwind CSS
-- Axios
 
 ### Backend
 - Java
@@ -132,9 +131,9 @@ http://localhost:3000
 ---
 ## 👩‍💻 Author
 
-Siri Chandana
-B.Tech CSE (AI & ML)
-GitHub: https://github.com/sirichandana17
+- Siri Chandana
+- B.Tech CSE (AI & ML)
+- GitHub: https://github.com/sirichandana17
 ---
 
 
